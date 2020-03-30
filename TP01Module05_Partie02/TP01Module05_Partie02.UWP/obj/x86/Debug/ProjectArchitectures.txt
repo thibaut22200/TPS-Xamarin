@@ -1,0 +1,1 @@
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module05_Partie02\TP01Module05_Partie02.UWP\TP01Module05_Partie02.UWP.csproj;x86
