@@ -1,0 +1,14 @@
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\bin\Debug\netstandard2.0\TP01Module08.deps.json
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\bin\Debug\netstandard2.0\TP01Module08.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\bin\Debug\netstandard2.0\ref\TP01Module08.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\bin\Debug\netstandard2.0\TP01Module08.pdb
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\TP01Module08.csprojAssemblyReference.cache
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\TP01Module08.csproj.CoreCompileInputs.cache
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\TP01Module08.AssemblyInfoInputs.cache
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\TP01Module08.AssemblyInfo.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\TP01Module08.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\ref\TP01Module08.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module08\TP01Module08\obj\Debug\netstandard2.0\TP01Module08.pdb
