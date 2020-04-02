@@ -1,0 +1,17 @@
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\bin\Debug\netstandard2.0\TP01Module09.deps.json
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\bin\Debug\netstandard2.0\TP01Module09.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\bin\Debug\netstandard2.0\ref\TP01Module09.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\bin\Debug\netstandard2.0\TP01Module09.pdb
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\TP01Module09.csprojAssemblyReference.cache
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\TP01Module09.csproj.CoreCompileInputs.cache
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\TP01Module09.AssemblyInfoInputs.cache
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\TP01Module09.AssemblyInfo.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\TP01Module09.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\ref\TP01Module09.dll
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\TP01Module09.pdb
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\layouts\ConnexionPage.xaml.g.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\layouts\HeaderView.xaml.g.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\layouts\TweetListPage.xaml.g.cs
+C:\Users\Thibaut\Desktop\ECOLE\Xamarin\TPS\TP01Module09\TP01Module09\obj\Debug\netstandard2.0\layouts\FooterView.xaml.g.cs
